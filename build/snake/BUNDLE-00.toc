@@ -1,3 +1,0 @@
-([('snake',
-   '/Users/hubertjosumarno/Desktop/Python Stuff/snake_game/dist/snake',
-   'EXECUTABLE')],)
